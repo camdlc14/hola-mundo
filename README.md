@@ -1,5 +1,6 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio
 
 Autor: Cristian Molina
+
 Fecha: 1 de Marzo
